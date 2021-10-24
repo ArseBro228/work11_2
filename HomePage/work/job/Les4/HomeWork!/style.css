@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,500&display=swap');
+img{
+    width: 460px;
+    height: 320px;
+    border-radius: 90%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+table{
+    border: 2px solid #808080;
+    border-radius: 10px;
+    border-color: #808080;
+    font-family: 'Prompt', sans-serif;
+}
+.BigTable{
+    border: none;
+}
+.FirstTable{
+    margin-left: 350px;
+    box-shadow: 3px 3px gray, -0.5em 0 .4em darkgrey;
+    font-size: 13px;
+}
+.SecondTable{
+    margin-left: 50px;
+    box-shadow: 3px 3px gray, -0.5em 0 .4em darkgrey;
+    font-size: 20px;
+}
+a{
+    background-color: deepskyblue;
+    color: black;
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: 35px;
+    border-radius: 5%;
+}
+.text_with_hr {
+    border: none;
+    border-bottom: 4px solid #808080;
+}
+.text_with_spaceXXL{
+    margin-left: 220px;
+}
+
+.text_with_spaceXL{
+    margin-left: 150px;
+}
+body{
+    background-color: mintcream;
+}

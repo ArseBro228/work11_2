@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Permanent+Marker&display=swap');
+
+.works{
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    color: blueviolet;
+}
+.work{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size:  30px;
+    float: left;
+    margin-left: 160px;
+    color: blueviolet;
+}
+body{
+    background-image: url(https://cdn.wallpapersafari.com/19/77/dpaHeX.png);
+}
+a:hover{
+    border: 2px solid lawngreen
+}
+a{
+    text-decoration: none;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

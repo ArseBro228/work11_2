@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Staatliches&display=swap');
+
+.name{
+    color: darkblue;
+    background-color: bisque;
+    opacity: 85%;
+    font-family: 'Staatliches', cursive;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url(https://img1.goodfon.ru/original/1920x1080/7/bf/marvel-logo-background-marvel.jpg);
+}
+th{
+    background-color: bisque;
+}
+.LeftTable{
+    font-size: 5px;
+}
+.LeftTableText{
+    font-size: 15px;
+    font-family: 'Staatliches', cursive;
+}
+td{
+    background-color: burlywood;
+}
+.LeftTableMenu{
+    background-color: black;
+}
+.RightTH{
+    background-color: lavenderblush;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 15px;
+}
+.RightTableText{
+    background-color: lavenderblush;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Lobster&family=Staatliches&display=swap');.firstImg{
+    display: block;
+    margin: auto;
+    width: 900px;
+    height: 500px;
+    border-radius: 90%;
+}
+.stone{
+    width: 100px;
+    height: 90px;
+    border-radius: 80%;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/94668.jpg);
+}
+th{
+    background-color: cornsilk;
+    color: black;
+    opacity: 0.9;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
